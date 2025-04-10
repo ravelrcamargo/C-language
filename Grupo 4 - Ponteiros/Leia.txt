@@ -1,0 +1,1 @@
+Os exercícios do grupo 4 estão no README.md por serem exercícios com respostas escritas e não códigos.
