@@ -1,0 +1,3 @@
+lavar carro;no lavacar;15/06/2025;1;0
+comprar pao;na padaria;16/06/2025;2;0
+comprar moto;hojee;11/06/2025;4;1
